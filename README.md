@@ -24,4 +24,4 @@ One query that Pewlett Hackard could try is getting a count of unique titles in 
 ![Employee Title Count Q](https://user-images.githubusercontent.com/94804527/153523640-c1e02a46-8f1b-4240-b55e-2e912625c15f.png)</br>
 ![Employee Title Count T](https://user-images.githubusercontent.com/94804527/153523681-0ee284f7-c2d4-489c-8060-336ca28d0091.png)</br>
 
-Another query that Pewlett Hackard can use 
+Another query that Pewlett Hackard can use is separating each department in it's own spreadsheet and presenting it to those business areas, that way they can come up with their own training/hiring plans to prepare for the silver tsunami. 
